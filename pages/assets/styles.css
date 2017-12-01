@@ -46,8 +46,8 @@
 /* Bottom left text */
 .bottom-left {
     position: absolute;
-    bottom: 8px;
-    left: 16px;
+    bottom: 16px;
+    left: 32px;
 }
 
 /* Top left text */
