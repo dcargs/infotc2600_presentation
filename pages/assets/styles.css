@@ -11,6 +11,10 @@
   clear: both;
 }
 
+.clear-fix-right {
+  clear: right;
+}
+
 .text-center {
   text-align: center;
 }
