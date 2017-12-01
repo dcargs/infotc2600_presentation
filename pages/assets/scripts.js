@@ -15,6 +15,11 @@ $(function(){
     $("#html_explained").html(data);
   });
 
+  // get css explained page
+  $.get( "/infotc2600_presentation/pages/css_explained.html", function( data ) {
+    $("#css_explained").html(data);
+  });
+
   // get mobile web platforms page
   $.get( "/infotc2600_presentation/pages/mobile.html", function( data ) {
     $("#mobile").html(data);
