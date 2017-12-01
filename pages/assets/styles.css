@@ -27,6 +27,10 @@
   font-size: 8pt;
 }
 
-.border {
+#border {
+  border: 2px solid white;
+}
+
+#border-cell {
   border: 2px solid white;
 }
