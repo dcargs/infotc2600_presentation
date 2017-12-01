@@ -27,10 +27,6 @@
   font-size: 8pt;
 }
 
-#border {
+.border {
   border: 2px solid white;
-}
-
-table td + td {
-  border: 2px solid white; 
 }
