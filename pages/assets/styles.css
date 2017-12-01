@@ -22,3 +22,7 @@
 .no-dot {
   list-style-type: none;
 }
+
+.padding-bottom {
+  padding-bottom: 10%;
+}
